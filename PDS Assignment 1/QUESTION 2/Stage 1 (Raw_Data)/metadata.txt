@@ -1,0 +1,27 @@
+Metadata for a dataset typically includes information about the dataset's structure, attributes, and data types. For the student performance dataset you've mentioned, here's an example of metadata:
+
+- **Dataset Name**: Student Performance Dataset
+- **Description**: A dataset containing information about student performance in math, reading, and writing exams, along with demographic and educational background details.
+- **Attributes**:
+  1. `gender`: Gender of the student (categorical: 'male' or 'female').
+  2. `race/ethnicity`: Race or ethnicity of the student (categorical: 'group A', 'group B', 'group C', 'group D', 'group E').
+  3. `parental level of education`: Education level of the student's parents (categorical: 'some high school', 'high school', 'some college', 'associate's degree', 'bachelor's degree', 'master's degree').
+  4. `lunch`: Type of lunch the student receives (categorical: 'standard' or 'free/reduced').
+  5. `test preparation course`: Whether the student completed a test preparation course (categorical: 'none' or 'completed').
+  6. `math score`: Numeric score achieved by the student in the math exam (integer).
+  7. `reading score`: Numeric score achieved by the student in the reading exam (integer).
+  8. `writing score`: Numeric score achieved by the student in the writing exam (integer).
+
+- **Data Types**:
+  - Categorical attributes: 'gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course'.
+  - Numeric attributes: 'math score', 'reading score', 'writing score'.
+
+- **Dataset Size**: Number of rows (students) and columns (attributes).
+
+- **Source**: The origin of the dataset (e.g., educational institution, research project).
+
+- **Date of Collection**: The date or time period during which the data was collected.
+
+- **Purpose**: The reason for collecting the data and its intended use (e.g., educational research, performance analysis).
+
+- **Additional Notes**: Any additional information or context relevant to the dataset.
