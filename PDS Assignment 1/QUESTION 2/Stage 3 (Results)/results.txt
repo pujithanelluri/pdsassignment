@@ -1,16 +1,17 @@
-                           Logit Regression Results                           
-==============================================================================
-Dep. Variable:                Frailty   No. Observations:                   10
-Model:                          Logit   Df Residuals:                        7
-Method:                           MLE   Df Model:                            2
-Date:                Wed, 27 Sep 2023   Pseudo R-squ.:                  0.2714
-Time:                        01:11:09   Log-Likelihood:                -4.9035
-converged:                       True   LL-Null:                       -6.7301
-Covariance Type:            nonrobust   LLR p-value:                    0.1610
-==============================================================================
-                 coef    std err          z      P>|z|      [0.025      0.975]
-------------------------------------------------------------------------------
-const        -14.4392     10.101     -1.429      0.153     -34.237       5.359
-Weight         0.1139      0.075      1.510      0.131      -0.034       0.262
-Age           -0.0394      0.065     -0.603      0.546      -0.167       0.089
-==============================================================================
+V1
+
+The bar chart comparing student performance by gender simplifies analysis by visually highlighting average scores in math, reading, and writing for males and females. It aids in identifying gender disparities, informing decisions, and communicating performance insights effectively to a broad audience.
+
+V2
+
+The stacked bar chart simplifies analysis by illustrating the composition of scores (math, reading, writing) for each racial/ethnic group. It offers a clear overview of how different groups perform in individual subjects, making it easier to identify subject-specific strengths and areas for improvement among racial/ethnic groups.
+
+V3
+
+The violin plot simplifies analysis by visually depicting the distribution of math scores across different parental education levels. It allows us to observe score distributions, including central tendencies and variations, for each education level in a single view. This aids in identifying trends and differences in student performance based on parental education, facilitating more in-depth analysis and insights.
+
+V4
+The box plot simplifies analysis by visually summarizing the distribution of math scores for students who completed the test preparation course and those who did not. It allows quick comparisons of score distributions, highlights central tendencies and variations, and provides insights into the impact of test preparation on student performance, facilitating informed analysis and decision-making.
+
+V5
+The correlation heatmap simplifies analysis by visually representing the relationships between math, reading, and writing scores. It allows for easy identification of positive or negative correlations, helping analysts understand how scores are related. This visualization streamlines the assessment of which subjects tend to co-vary, providing valuable insights into potential dependencies and areas for further investigation
