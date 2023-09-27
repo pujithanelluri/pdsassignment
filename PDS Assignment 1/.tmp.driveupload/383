@@ -24,7 +24,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/pujithanelluri/pdsassignment1/blob/main/src/Data_Analysis.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/pujithanelluri/pdsassignment1/blob/main/PDS%20Assignment%201/PDS%20Question1/src/Data_Analysis.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -110,7 +110,7 @@
         "id": "cN3iYGqKmjFs",
         "outputId": "40391d6e-92ed-4525-92f7-4d8eecb24856"
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
