@@ -30,11 +30,3 @@ This dataset can be used for various analyses, including but not limited to:
 - Investigating the impact of parental education level, gender, or test preparation on student performance.
 - Visualizing correlations between subject scores and identifying trends.
 
-## Acknowledgments
-
-- The dataset source and authors, if available, should be acknowledged here.
-
-## License
-
-This dataset may be subject to specific licensing terms. Please refer to the dataset source or documentation for licensing information.
-
