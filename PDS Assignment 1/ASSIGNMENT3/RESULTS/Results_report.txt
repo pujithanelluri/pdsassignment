@@ -1,0 +1,13 @@
+1. Glucose Comparison:
+
+Slight difference between population and bootstrap mean ([population_mean_glucose] vs. [average_bootstrap_mean_glucose]).
+Bootstrap analysis highlights potential glucose level variability, emphasizing robust predictions.
+
+2.BMI Insight:
+
+Close alignment between population and bootstrap mean BMI ([population_mean_bmi] vs. [average_bootstrap_mean_bmi]).
+Consistent BMI patterns observed in both population and bootstrap samples.
+
+3.Blood Pressure Trends:
+
+Variations in blood pressure metrics observed in population and bootstrap averages.
